@@ -1,0 +1,17 @@
+#navbar {
+  position: fixed;
+  width: 100%;
+  top: 0;
+  left: 0;
+  background-color: rgb(136, 111, 226);
+}
+
+@media (min-width: 200px) {
+  body {
+    background: linear-gradient(to right, #1087f0, rgba(43, 103, 214, 0.65), #86f9ff);
+}
+}
+
+#welcome-section {
+  margin-top: 60px;
+}
